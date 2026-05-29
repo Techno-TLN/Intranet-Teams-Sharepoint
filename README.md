@@ -1,6 +1,6 @@
 # Techno-TLN intraneti PoC: realisatsioonijuhis
 
-**Sihtgrupp:** Andres Ojalill (PoC realisatsiooni jätkaja)
+**Sihtgrupp:** Andres (PoC realisatsiooni jätkaja)
 **Versioon:** 1.0
 **Olek:** osaliselt realiseeritud, jätkamine sammust 7
 
